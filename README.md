@@ -1,3 +1,4 @@
+[EXP-3.1.pdf](https://github.com/user-attachments/files/23027280/EXP-3.1.pdf)
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:
 
